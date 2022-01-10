@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "jack",
+    "email": "jack@jack.jack",
+    "password": "hello",
+    "age": 99,
+    "profilePicture": ""
+  },
+  {
+    "id": 2,
+    "username": "john",
+    "email": "john@john.john",
+    "password": "yoyo",
+    "age": 1,
+    "profilePicture": ""
+  },
+  {
+    "age": "2",
+    "email": "bobby@bobby.bobby",
+    "password": "bobbybobby",
+    "username": "bobby",
+    "id": 3,
+    "profilePicture": ""
+  }
+]
