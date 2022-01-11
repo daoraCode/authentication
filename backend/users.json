@@ -14,13 +14,5 @@
     "password": "yoyo",
     "age": 1,
     "profilePicture": ""
-  },
-  {
-    "age": "2",
-    "email": "bobby@bobby.bobby",
-    "password": "bobbybobby",
-    "username": "bobby",
-    "id": 3,
-    "profilePicture": ""
   }
 ]
